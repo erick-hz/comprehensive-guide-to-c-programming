@@ -29,4 +29,4 @@
 
 # Directory for build output
 build/
-.vscode/
+*.vscode/
