@@ -1,0 +1,32 @@
+# Compiled object files
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.out
+*.exe
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Directory for build output
+build/
+*.vscode/
