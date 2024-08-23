@@ -1,6 +1,6 @@
 # Comprehensive Guide to C Programming
 
-This repository contains various C programming examples, demonstrating fundamental concepts such as variables, pointers, data structures, and more. It's designed to help beginners and intermediate programmers understand the core aspects of C programming.
+This repository contains various C programming examples, demonstrating fundamental concepts such as variables, pointers, data structures, and more. It's designed to help beginners and intermediate programmers understand the core aspects of C programming
 
 ## Getting Started
 
